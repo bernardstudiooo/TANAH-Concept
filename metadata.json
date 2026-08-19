@@ -1,0 +1,6 @@
+{
+  "name": "Saradise Specialty Cafe",
+  "description": "A sophisticated, editorial single-page website for a specialty cafe in Saradise, Kuching, Sarawak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
