@@ -14,7 +14,7 @@ const CATEGORIES: { key: MenuCategory; label: string; icon: React.ReactNode; des
     key: 'Non-Coffee',
     label: 'Matcha & Botanicals',
     icon: <CupSoda className="w-3.5 h-3.5" />,
-    description: 'Ceremonial Uji matcha, single-estate Borneo cacao, and sparkling botanical infusions.',
+    description: 'Ceremonial Uji matcha, single-estate artisanal cacao, and sparkling botanical infusions.',
   },
   {
     key: 'Breakfast',
@@ -26,13 +26,13 @@ const CATEGORIES: { key: MenuCategory; label: string; icon: React.ReactNode; des
     key: 'Brunch',
     label: 'Slow Brunch',
     icon: <UtensilsCrossed className="w-3.5 h-3.5" />,
-    description: 'Hearty plates, house sourdough toasts, seasonal bowls, and Sarawakian culinary fusions.',
+    description: 'Hearty plates, house sourdough toasts, seasonal bowls, and mindful culinary creations.',
   },
   {
     key: 'Desserts',
     label: 'Artisan Pastry',
     icon: <CakeSlice className="w-3.5 h-3.5" />,
-    description: 'Fresh daily bakes, Sarawak Gula Apong basque cheesecake, French canelés, and seasonal tarts.',
+    description: 'Fresh daily bakes, Burnt Gula Melaka basque cheesecake, French canelés, and seasonal tarts.',
   },
 ];
 

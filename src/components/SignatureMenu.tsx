@@ -33,7 +33,7 @@ export const SignatureMenu: React.FC<SignatureMenuProps> = ({ onViewFullMenu }) 
 
           <div className="mt-8 md:mt-0 flex flex-col items-start md:items-end">
             <p className="text-sm text-[#2C1E16]/75 max-w-xs md:text-right font-light mb-5 leading-relaxed">
-              Seasonal creations pairing Sarawakian ingredients with single-origin roasts and French pastry techniques.
+              Seasonal creations pairing artisanal ingredients with single-origin roasts and French pastry techniques.
             </p>
             <button
               id="signature-view-full-menu-btn"
